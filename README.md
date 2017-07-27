@@ -16,31 +16,6 @@ powerful, reusable components written with plain Java and HTML.
 Apache Wicket can be found at: http://wicket.apache.org and is licensed under
 the Apache Software Foundation license, version 2.0.
 
-Contents
---------
- - License
- - Java/Application server requirements
- - Getting started
- - What is in this package
- - Dependencies
- - Building Wicket from source
- - Migrating from 7.x
- - Getting help
- - Cryptographic Software Notice
-
-License
--------
-
-Wicket is distributed under the terms of the Apache Software Foundation
-license, version 2.0. The text is included in the file LICENSE in the root
-of the project.
-
-Java/Application server requirements
-------------------------------------
-
-Wicket requires at least Java 1.8. The application server for running your web
-application should adhere to the servlet specification version 3.1 or newer.
-
 Getting started
 ---------------
 
@@ -258,6 +233,18 @@ Getting help
 
  - Ask a question on IRC at freenode.net, channel ##wicket
 
+License
+-------
+
+Wicket is distributed under the terms of the Apache Software Foundation
+license, version 2.0. The text is included in the file LICENSE in the root
+of the project.
+
+Java/Application server requirements
+------------------------------------
+
+Wicket requires at least Java 1.8. The application server for running your web
+application should adhere to the servlet specification version 3.1 or newer.
 
 Cryptographic Software Notice
 -----------------------------
