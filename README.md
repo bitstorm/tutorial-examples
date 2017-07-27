@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://wicket.apache.org">
-    <img style="height: 250px;" src="https://wicket.apache.org/img/logo.svg">
+    <img style="height: 250px;width:250px;" src="https://wicket.apache.org/img/logo.svg">
   </a>
 </p>
 
